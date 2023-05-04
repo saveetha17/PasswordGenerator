@@ -40,7 +40,7 @@ if(isSpecialCharacters){
   characters += specialCharacters;
 }
 for (var i=0; i <= passwordLength; i++) {
-  output += characters.charAt(Math.floor(Math.random()*characters.passwordLength));
+  output += characters.charAt(Math.floor(Math.random()*characters.length));
 }
 return output;
 
