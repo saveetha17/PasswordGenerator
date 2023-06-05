@@ -1,18 +1,23 @@
 # PasswordGenerator
-Challenge3
 
-Purpose
-Password Generator is an website application that generates a random password which provides greater security to access sensitive data.
+## Description
 
-Usage
+Password Generator is an website application that generates a random password which provides greater security to access sensitive data.When user clicks the  generate password button then a series of prompts for password criteria like length of the password, lowercase, uppercase,numeric, and/or special characters has to be entered. When all prompts are answered, a password is generated that matches the selected criteria
 
-When user clicks the  generate password button then a series of prompts for password criteria like length of the password, lowercase, uppercase,numeric, and/or special characters has to be entered. When all prompts are answered, a password is generated that matches the selected criteria
+## Technologies Used
 
-Installing
-To install this code, download the zip file, or use GitHub's guidelines to clone the repository.
+ * JavaScript
+ * Node.js
+ * NPM
+ * OOP Concepts
+
+## Usage
+
+ ![ScreenShot](./assets/Screenshot/screenshot.png)
 
 
-Website:
-https://github.com/saveetha17/PasswordGenerator.git
+## Link to Github Repository
 
+
+## Link to Deployed Application
 
