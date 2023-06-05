@@ -11,13 +11,13 @@ Password Generator is an website application that generates a random password wh
  * NPM
  * OOP Concepts
 
-## Usage
+## Screen Shot
 
  ![ScreenShot](./assets/Screenshot/screenshot.png)
 
 
 ## Link to Github Repository
-
+https://github.com/saveetha17/PasswordGenerator.git
 
 ## Link to Deployed Application
-
+https://saveetha17.github.io/PasswordGenerator/
